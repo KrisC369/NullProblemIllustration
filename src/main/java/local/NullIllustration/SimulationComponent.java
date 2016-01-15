@@ -1,8 +1,8 @@
-package be.kuleuven.cs.NullIllustration;
+package local.NullIllustration;
 
 import java.util.List;
 
-import be.kuleuven.cs.NullIllustration.SimulationComponent;
+import local.NullIllustration.SimulationComponent;
 
 /**
  * Testing example

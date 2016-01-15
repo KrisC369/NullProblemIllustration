@@ -1,4 +1,4 @@
-package be.kuleuven.cs.NullIllustration;
+package local.NullIllustration;
 
 /**
  * @author Kristof Coninx (kristof.coninx AT cs.kuleuven.be)

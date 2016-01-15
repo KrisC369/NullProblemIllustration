@@ -1,4 +1,4 @@
-package be.kuleuven.cs.NullIllustration;
+package local.NullIllustration;
 
 import java.util.Collections;
 import java.util.List;

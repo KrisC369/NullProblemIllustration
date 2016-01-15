@@ -4,6 +4,6 @@
  * @author Kristof Coninx (kristof.coninx AT cs.kuleuven.be)
  */
 @NonNullByDefault
-package be.kuleuven.cs.NullIllustration;
+package local.NullIllustration;
 
 import org.eclipse.jdt.annotation.NonNullByDefault;
